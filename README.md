@@ -8,7 +8,7 @@ Throughout the lab, a private container registry is created to store container i
 
 (The project was completed as part of hands-on preparation for the AZ-500: Azure Security Engineer Associate certification).
 
-##Objectives:
+##Objectives(Completed):
 - Task 1: Create an Azure Container Registry.
 - Task 2: Create a Dockerfile, build a container and push it to Azure Container Registry.
 - Task 3: Create an Azure Kubernetes Service cluster.
