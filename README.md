@@ -9,7 +9,14 @@ Throughout the lab, a private container registry is created to store container i
 (The project was completed as part of hands-on preparation for the AZ-500: Azure Security Engineer Associate certification).
 
 ##Objectives:
-
+- Task 1: Create an Azure Container Registry.
+- Task 2: Create a Dockerfile, build a container and push it to Azure Container Registry.
+- Task 3: Create an Azure Kubernetes Service cluster.
+- Task 4: Grant the AKS cluster permissions to access the ACR.
+- Task 5: Deploy an external service to AKS.
+- Task 6: Verify the you can access an external AKS-hosted service.
+- Task 7: Deploy an internal service to AKS.
+- Task 8: Verify the you can access an internal AKS-hosted service.
 
 ##Technologies used:
 - Microsoft Azure – Cloud platform used to deploy and manage all resources.
