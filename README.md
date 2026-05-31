@@ -32,3 +32,17 @@ Throughout the lab, a private container registry is created to store container i
 - kubectl – Kubernetes command-line tool used to interact with the AKS cluster.
 - YAML – Configuration language used for Kubernetes deployments and service definitions
 
+##Lessons Learned: 
+- deploying and managing a private Azure Container Registry (ACR) for storing container images.
+- Learned how to build and push container images directly to ACR using Azure CLI.
+- Deployed an Azure Kubernetes Service (AKS) cluster and explored the fundamentals of Kubernetes-based application hosting.
+- Configured secure integration between AKS and ACR using Azure RBAC and the AcrPull role assignment.
+- Learned how Managed Identities can be used to securely authenticate Azure resources without storing credentials in code or configuration files.
+- Gained hands-on experience working with Azure Role-Based Access Control (RBAC) to grant permissions following the principle of least privilege.
+- Deployed Kubernetes workloads using YAML manifests and validated successful container deployment within the cluster.
+- Explored the difference between external and internal Kubernetes services and how they affect application accessibility.
+- Understood how Azure Load Balancers are automatically provisioned to expose Kubernetes services.
+- Learned how network design choices impact the security posture of containerized applications.
+- Improved familiarity with kubectl commands for managing and troubleshooting Kubernetes resources.
+- Reinforced best practices for securing containerized workloads through controlled image access, identity-based authentication, and network isolation.
+- Gained insight into how Azure security services work together to protect modern cloud-native applications.
