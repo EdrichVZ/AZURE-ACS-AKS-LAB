@@ -1,3 +1,3 @@
 kubectl get service nginxexternal
 
-code ./nginxinternal.yaml
+#external IP:128.203.82.107
