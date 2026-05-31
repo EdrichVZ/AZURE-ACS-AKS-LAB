@@ -4,4 +4,4 @@
 
   kubectl get service nginxinternal
 
-  ##esternal IP= 10.224.0.33
+  ##external IP= 10.224.0.33
